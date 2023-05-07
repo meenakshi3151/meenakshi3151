@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Meenakshi</h1>
 <h3 align="center">Be aware Be safe!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw057bueLD8NLdaVkIHUxbwD&ust=1683534921826000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiZtL7m4v4CFQAAAAAdAAAAABAo">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url="https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw057bueLD8NLdaVkIHUxbwD&ust=1683534921826000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiZtL7m4v4CFQAAAAAdAAAAABAo">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi3151&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi3151" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
