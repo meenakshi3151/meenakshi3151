@@ -1,8 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
 <h1 align="center">Hi 👋, I'm Meenakshi</h1>
 <h3 align="center">Be aware Be safe!</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi3151&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi3151" /> </p>
 
@@ -22,6 +19,7 @@
 <a href="https://instagram.com/meenakshi_._._gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meenakshi_._._gupta" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/coder_3342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_3342" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meenakshi1377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meenakshi1377" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/guptameen1rrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="guptameen1rrh" height="30" width="40" /></a>
 <a href="https://discord.gg/0544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0544" height="30" width="40" /></a>
 </p>
 
