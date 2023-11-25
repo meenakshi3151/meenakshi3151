@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meenakshi</h1>
 
 <h3 align="center">Be aware Be safe!</h3>
-![Screenshot 2023-11-25 072936](https://github.com/meenakshi3151/meenakshi3151/assets/125037000/8793e691-45de-49c0-9589-a87a5df8a82a)
 
 
 <!-- ![gif](https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b) -->
