@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meenakshi</h1>
 
 <h3 align="center">Be aware Be safe!</h3>
+![githubProfileImage](https://github.com/meenakshi3151/meenakshi3151/assets/125037000/5474aacd-0593-4636-b773-d1f1b871372c)
+
 <!-- ![gif](https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi3151&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi3151" /> </p>
 
