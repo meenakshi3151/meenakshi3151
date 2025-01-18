@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Meenakshi</h1>
+<h1 align="center">Hey Coders! 👋, This is Meenakshi Gupta</h1>
 
 <h3 align="center">Be aware Be safe!</h3>
 
 <img src="https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b" width="600" style="display: block; margin: 0 auto;" alt="GIF description">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi3151&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi3151" /> </p>
 
@@ -12,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN and DSA.**
 
-- 💬 Ask me about **C, Html, CSS, PHP, mySQL, C++, React, Node, Express, Mongo, Java, Python**
+- 💬 Ask me about **C, Html, CSS, PHP, MySQL, C++, React, Node, Express, Mongo, Java, Python, Go, ML**
 
 - 📫 How to reach me **guptameenakshi957@gmail.com**
 
