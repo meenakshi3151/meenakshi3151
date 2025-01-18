@@ -2,7 +2,7 @@
 
 <h3 align="center">Be aware Be safe!</h3>
 
-<img src="https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b" width="600" style="display: block; margin: 0 auto;" alt="GIF description">
+<img src="https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b" width="1100" style="display: block; margin: 0 auto;" alt="GIF description">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi3151&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi3151" /> </p>
 
@@ -33,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshi3151&show_icons=true&locale=en" alt="meenakshi3151" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi3151&" alt="meenakshi3151" /></p>
