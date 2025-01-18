@@ -3,7 +3,10 @@
 <h3 align="center">Be aware Be safe!</h3>
 
 
-<img src="https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b" width="900" alt="GIF description">
+<div style="margin: 0 auto; width: 80%; text-align: center;">
+  <img src="https://github.com/meenakshi3151/meenakshi3151/assets/125037000/59f08c80-4922-475b-8c2c-e3d7c7dd1e3b" width="600" alt="GIF description">
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi3151&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi3151" /> </p>
 
